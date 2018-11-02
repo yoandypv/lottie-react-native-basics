@@ -43,6 +43,10 @@ runAnimation() {
           />
   ```        
  
+ ##### The example running, the right animation start at init the app and is showed in a loop. The left (heart) is animated when button [Me gusta] is pressed.
+ 
+ ![IReact Native Lottie example](https://github.com/yoandypv/lottie-react-native-basics/blob/master/lottie.gif)
+ 
  If you like this example, give me an start !
  
   
