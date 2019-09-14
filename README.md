@@ -2,6 +2,7 @@
 
 Basic example of how use the awesome lottie from React Native.
 
+** Toda la explicación en español [aquí](https://blog.sacavix.com/2019/09/14/lottie-anima-tus-apps-en-react-native/)
 
 To run the project, first `git clone`, and after `react-native run-android` .In the folder assets/lottie-files are the two lottie files used in the project.
 
